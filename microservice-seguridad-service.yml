@@ -5,7 +5,7 @@ metadata:
   labels:
     name: microservice-seguridad-service
     app: microservice
- spec:
+spec:
   type: ClusterIP
   ports:
     - port: 80

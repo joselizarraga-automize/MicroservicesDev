@@ -5,7 +5,7 @@ metadata:
   labels:
     name: gateway-service
     app: microservice
- spec:
+spec:
   type: LoadBalancer
   ports:
     - port: 80
