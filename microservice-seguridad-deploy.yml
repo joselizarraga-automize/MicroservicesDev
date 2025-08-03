@@ -10,7 +10,7 @@ spec:
   selector:
     matchLabels:
       app: microservice-seguridad
-      ype: microservice
+      type: microservice
   template:
     metadata:
       name: microservice-seguridad-pod
