@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: gateway-deploy
-  lables:
+  labels:
     name: gateway-deploy
     app: microservice
 spec:

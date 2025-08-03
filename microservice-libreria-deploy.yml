@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: microservice-libreria-deploy
-  lables:
+  labels:
     name: microservice-libreria-deploy
     app: microservice
 spec:

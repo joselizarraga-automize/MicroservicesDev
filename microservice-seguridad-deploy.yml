@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: microservice-seguridad-pod
-  lables:
+  labels:
     name: microservice-seguridad-deploy
     app: microservice
 spec:
