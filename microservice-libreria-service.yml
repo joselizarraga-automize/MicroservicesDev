@@ -5,7 +5,7 @@ metadata:
   labels:
     name: microservice-libreria-service
     app: microservice
- spec:
+spec:
   type: ClusterIP
   ports:
     - port: 80
